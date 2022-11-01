@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "cipher_khl2139"
+version = "0.1.0"
+description = "Cipher package for HW7 for G5072 Modern Data Structures"
+authors = ["Mandi Lee <mandy.k.h.lee@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
